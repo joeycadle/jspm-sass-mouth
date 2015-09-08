@@ -1,0 +1,28 @@
+{
+  "name": "jspm-sass-mouth",
+  "version": "0.0.1",
+  "description": "GrubHub - Generates a scss file containing @imports pointed at jspm depedencies.",
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joeycadle/jspm-sass-mouth.git"
+  },
+  "author": {
+    "name": "Joey Cadle Allgaier",
+    "email": "joey@joeycadle.com",
+    "url": "https://github.com/joeycadle"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10 <=0.12 || >=1 <=3"
+  },
+  "bin": {
+    "jspm-sass-mouth": "./bin/jspm-sass-mouth"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "colors": "^1.1.2",
+    "lodash": "^3.10.1",
+    "minimist": "^1.2.0"
+  }
+}

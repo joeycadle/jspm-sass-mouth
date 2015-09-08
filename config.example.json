@@ -1,0 +1,18 @@
+{
+  "mynewsass": {
+    "import": [
+      {
+        "local": true,
+        "filepath": "scss/localfile_1"
+      },
+      {
+        "package": "github:some/repository",
+        "filepath": "file/to/import.scss"
+      },
+      {
+        "local": true,
+        "filepath": "scss/localfile_2"
+      }
+    ]
+  }
+}
