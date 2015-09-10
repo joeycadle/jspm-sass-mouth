@@ -22,9 +22,10 @@
   "dependencies": {
     "bluebird": "^2.9.34",
     "colors": "^1.1.2",
+    "fs": "0.0.2",
+    "jspm-getdir": "^0.1.0",
     "lodash": "^3.10.1",
     "minimist": "^1.2.0",
-    "fs": "0.0.2",
     "path": "^0.11.14"
   }
 }
