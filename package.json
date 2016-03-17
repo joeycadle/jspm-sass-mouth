@@ -1,6 +1,6 @@
 {
   "name": "jspm-sass-mouth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GrubHub - Generates a scss file containing @imports pointed at jspm depedencies.",
   "main": "./lib/index",
   "repository": {
